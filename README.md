@@ -12,3 +12,9 @@ pre-commit sample-config | out-file .pre-commit-config.yaml -encoding utf8
 
 pre-commit install
 ```
+
+You can use `pre-commit autoupdate` to update the dependencies to the latest version automatically.
+
+## [mypy]()
+Variable typing: \
+https://github.com/python/mypy/blob/master/docs/source/type_inference_and_annotations.rst
