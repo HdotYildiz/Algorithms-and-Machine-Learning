@@ -1,4 +1,13 @@
 # Algorithms-and-Machine-Learning
+## Content
+Linear regression:
+- Closed form fit
+- Gradient descent approach
+- L1, L2 and Elastic net regularization
+
+Algorithms:
+- Minimum cost to connect grid coordinates
+
 ## [Pre-commit](https://pre-commit.com/)
 See https://pre-commit.com for more information \
 See https://pre-commit.com/hooks.html for more hooks
