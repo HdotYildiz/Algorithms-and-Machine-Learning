@@ -11,7 +11,7 @@ def manhattan_distance(a, b):
 
 def minimum_cost_connecting_coordinates(coords: List[List[int]], return_edges: bool = False) -> Any:
     """
-    Calculates the minimal cost of connecting coordinates
+    Calculates the minimal cost of connecting coordinates a matrix
     return_edges: Toggles whether the sum is returned or the MST itself
     """
     n = len(coords)
